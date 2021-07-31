@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Edudigm</string>
+    <string name="id_txt">id_txt</string>
+    <string name="imageView">imageView</string>
+    <string name="Header">Hey AmiT,</string>
+    <string name="Header2">Find a course you want to learn</string>
+    <string name="categories">Categories</string>
+    <string name="seeall">See All</string>
+</resources>
